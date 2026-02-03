@@ -32,7 +32,7 @@ Hi! I’m Khin but I also got by Sabrina, a software engineer with a background 
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-line-wordmark.svg" title="kub" alt="kub" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplot" **alt="matplot" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original-wordmark.svg" title="prolog" **alt="prolog" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/tensorflow" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
