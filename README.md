@@ -15,13 +15,13 @@ Hi! I’m Khin but I also got by Sabrina, a software engineer with a background 
 🧠: Reasoning & agentic AI — designed graph-structured reasoning datasets and agentic workflows (LangGraph, AutoGen) for controlled LLM evaluation
 
 ### ⚡ Currently:
-📖: M.S. in Natural Language Processing (UC Santa Cruz)<\br>
+📖: M.S. in Natural Language Processing (UC Santa Cruz)<br>
 🔍: Actively seeking full-time roles in Software Engineering, ML Engineering, or Applied AI
 
 
 ### 📫 How to reach me:
-💼 LinkedIn: https://www.linkedin.com/in/khin-yone-53b4b6196/ <\br>
-📧 Email: koekent@gmail.com <\br>
+💼 LinkedIn: https://www.linkedin.com/in/khin-yone-53b4b6196/ <br>
+📧 Email: koekent@gmail.com <br>
 💻 Google Scholar: https://scholar.google.com/citations?user=5Q6EvksAAAAJ&hl=en 
 
 
