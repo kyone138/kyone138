@@ -11,7 +11,7 @@
 Hi! I’m Khin but I also got by Sabrina, a software engineer with a background in NLP, and applied LLMs. I enjoy building end-to-end systems that turn complex data into usable, trustworthy products.
 
 ### 🔭 What I’ve been working on lately:
-🔍: RAG & LLM systems — built and evaluated multi-hop QA pipelines with a focus on retrieval accuracy, faithfulness, and interpretability
+🔍: RAG & LLM systems — built and evaluated multi-hop QA pipelines with a focus on retrieval accuracy, faithfulness, and interpretability<br>
 🧠: Reasoning & agentic AI — designed graph-structured reasoning datasets and agentic workflows (LangGraph, AutoGen) for controlled LLM evaluation
 
 ### ⚡ Currently:
